@@ -1,0 +1,19 @@
+{
+  "name": "tiny-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@babel/preset-react": "^7.26.3",
+    "@babel/preset-typescript": "^7.26.0",
+    "babel-cli": "^6.26.0",
+    "typescript": "^5.7.3",
+    "vite": "^6.1.0"
+  }
+}
